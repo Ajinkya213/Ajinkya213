@@ -9,7 +9,7 @@
    - Master's in Advance Computer Science.
    
 - 💞️ I’m looking to collaborate on ...
-   - Programing and Software Engineering and all that's in between.
+   - Programing and Software Engineering whatever in between.
    
 - 📫 How to reach me ...
    - Email: ajinkyabhushan213@gmail.com
