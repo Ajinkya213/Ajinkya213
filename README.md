@@ -1,29 +1,31 @@
-- 👋 Hi, I’m @Ajinkya213
+# Ajinkya Bhushan
 
-- 📍 What I am currently doing
-  - Looking for job/ techincal internship
-  - Get more experince in techincal domain
-  - Making my website portfolio
+Hello World
 
-- 👀 I’m interested in 
-   - Coding
-   - Gaming
-   - Tech Stuff
-   
-- 🌱 I’m currently studying ...
-   - Master's in Advance Computer Science from University of Sheffield
-   
-- 💞️ I’m looking to collaborate on ...
-   - Programing and Software Engineering whatever in between.
-   
-- 📫 How to reach me ...
-   - Email: ajinkyabhushan213@gmail.com
+I am an aspiring masters graduate. I am currently looking for a job in software developement. I have completed my master's degree from The University of Sheffield. 
 
-- 🚀 What I want to be ...
-   - Software Developer
-   - Software Enggineer
-   - Fullstack Developer
- 
+
+### Education
++ Masters in Advance Computer Science 
+   - University of Sheffield, Sheffield, United Kingdom
+   - 09/2021 – 09/2022
+
+
++ Post-Graduation Diploma in Advance Computing
+   - Centre for Development of Advanced Computing (CDAC), Pune, India
+   - 08/2018 – 02/2019
+
++ Bachelor of Engineering in Computer Science Engineering
+   - Rashtrasant Tukadoji Maharaj Nagpur University (RTMNU), Nagpur, India
+   - 07/2013 -07/2017
+
+## Social Links
+
+[LinkedIn](https://www.linkedin.com/in/ajinkya-bhushan-756b31251/)
+
+[Hackerrank](https://www.hackerrank.com/profile/ajinkya213)
+
+[Leetcode](https://leetcode.com/ajinkyabhushan213/)
 
 <!---
 Ajinkya213/Ajinkya213 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
